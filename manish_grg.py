@@ -50,7 +50,7 @@ st.write("---")
 
 st.container()
 st.header("Welcome to my website!! ")
-st.subheader("It is still on developmental stage 🛠️💻.  Many things are going to add up here. ")
+st.subheader("It is still on developmental stage 🛠️💻  Many things are going to add up here. ")
 st.subheader("So, stay tuned for amazing interfaces. Thank You !!")
 st.write("---")
 

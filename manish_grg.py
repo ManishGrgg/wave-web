@@ -18,7 +18,7 @@ def load_lottie_animation(file_path):
 
 # Function to apply emoji rainfall effect
 def run_snow_animation():
-    rain(emoji="🌟", font_size=30, falling_speed=5, animation_length="infinite")
+    rain(emoji="🤙", font_size=30, falling_speed=5, animation_length="infinite")
 
 # Function to get the name from query parameters
 def get_person_name():
